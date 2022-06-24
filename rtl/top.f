@@ -1,0 +1,13 @@
+${PROJ_DIR}/rtl/clkrst/clkrst.sv
+${PROJ_DIR}/rtl/common/cdc_2ff_sync.sv
+${PROJ_DIR}/rtl/common/cdc_edge_det.sv
+${PROJ_DIR}/rtl/common/rst_sync.sv
+${PROJ_DIR}/rtl/csr/csr.sv
+${PROJ_DIR}/rtl/jtag/jtag_pkg.sv
+${PROJ_DIR}/rtl/jtag/jtag_tap_ctrl.sv
+${PROJ_DIR}/rtl/jtag/jtag_ir.sv
+${PROJ_DIR}/rtl/jtag/jtag_dr.sv
+${PROJ_DIR}/rtl/jtag/jtag_tdo.sv
+${PROJ_DIR}/rtl/jtag/jtag_top.sv
+${PROJ_DIR}/rtl/top/top_pads.sv
+${PROJ_DIR}/rtl/top/top.sv
